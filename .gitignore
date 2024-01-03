@@ -1,3 +1,4 @@
+llm_env/
 langchain_env/*
 .env
 .DS_Store

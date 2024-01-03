@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sage-momentum-410021",
+  "private_key_id": "94e0a6b0e4f69e049a3f2f77f9f5226066d7cc87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYqFr+5xgU0HlI\nYvx9R4PWOzK1tUoDr/nmDarXAixPFc83kQQ9FpKlFfmRWtGECRSGSPvzsJzozPfL\nFEkCJKBPnIVfKcIn6V2fhLw+B2pgGYZws4YLkRcF7dM01XpbAG1aMgmgPaob82NU\nxHASGdIVXvAkc/1TpwSYVmccIIxoLPXDHJ1KVxmbpCVPMAMUl8hwZOy098mt9HLr\nkko47VsxSq344NsOitv2Nm3ssZduPEoJx3NiFxkAyXU/Ea3f/q9FjeUpy4QKIq39\nAC8yxXL3fqQMIO7WPB7ujhs14jPfPMvOzEzetf1kVEBG0dfBAFclJ53R7rVMINJE\niI/EgUJ9AgMBAAECggEAMnXb9kwvIpoyrOHDcinUg1j4DyZIu+VMZmX4JbAbM10T\nLNvrmcG/YYBdCVYK0Wkq9qRjXA7yHuW5ttASvfmbYBVt5KHqAsVZ5CO9EYfj+rYV\nQWWmFma0RIpzeRBjrHb8robBtc0MUMbn+5ofLWyJi/Tgzjvk7eTUWQKefKaporlP\nGj7p7rWzN5rIL9zwTTHSdiyjBPMck54k1JOWxq++GiTCREsas8rcSyRC9RVBD/rs\nfmZoSJCH00w3YaSIFwHAVle2r1tZ4k5feqEHRgQWOaKb2NF7FBLtKdoaX/MZCW/z\nC5QucMI9wzFWnI1rivtfBcXnOP9JMOxRNhwPV5EsxQKBgQDLEABPGKM3oLgmUr6X\nNo1YKI5Tp6NbGa44Ws9T5rUu4GsVpxJYWIF4A5t5SMGSR2+AS6fb17y1eHLVR2AX\nQRadEhRqtxFuGoEE4lp6zNA6jCvv1iOGXnpaEXsk3G1OV6Gn17Siz68yTcMN5pKj\ntchuYgbsZoKb9y6FpRyPJpn2TwKBgQDAdG5T6xAMIRGBwvAsNJ0Mk8+il/U/nr9y\nOol3aTjEN8lort08L6eQqiV3TRbQm9PifASj5tmWJgFjzpH64ocI1Cqt/qf3f5+P\nQmspmkHjg71fsBtaw9BEIKqWptHICfzFH9wXtoGa8GJOxkERvrm5H+goonMm1izm\nbspGssRTcwKBgQCx5mre4O7dpWiv6n4fbCOYwK8wiwWKoo0HwkcxckX5s5MdfSmN\nTLzgsAhd0WgFB6Cf/agp6m/hbIzuXYHJ3bQ6F8TbWVdj5sRxyv0J6LXlFTjI/gpR\nhiQbFIWWXadFo3B0433Vxa3vnEDuxLpjwra+PhNiuMxkZ8HSRD0pDOCF8QKBgBMP\ntRm0r2s0H0LF5vnJ4EAtp6QH/u9lLrsGlzTvhALTL6yhnSHn6mXGpF1Tkk3pESxe\ncis1oxle/EZBYG4D37H9KZkAHuzBhDExN+Hv+FSraKdAjwUHXepRffPb4+03KATy\nKd9jYSTSaDo7Ipi6VjTCt0DHDjargdj04i3saMuHAoGAeSRSBzDEj2PEjCqH15wS\n19cvFYF97RRIuqeIpijp261ht9xu100fzSCiA+QqFMJ/EDX3BpYu6b5mkzUKPtN0\nptXe9iLi1RCTMx9XcxzhVpptyQjY4aw21IrnlNd3/CuEEJXZ/cclo3sKLCe9SHwR\nJPkU+HUpZeTyTr0KNX4mro8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-service-account@sage-momentum-410021.iam.gserviceaccount.com",
+  "client_id": "114189766364634812700",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-service-account%40sage-momentum-410021.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
